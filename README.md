@@ -30,7 +30,7 @@ This project is a **SimpleRISC Assembler** implemented in **C** and **Python**. 
    ```
 2. Compile the main file using C :
   ```
-  gcc -o assembler ass5.c
+  gcc -o assembler assembler.c
   ```
 3. Run the executable with the assembly file:
   ```
