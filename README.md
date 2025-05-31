@@ -37,7 +37,7 @@ This project is a **SimpleRISC Assembler** implemented in **C** and **Python**. 
   ./assembler
   ```
 ## File Structures: 
-- `ass5.c`: Core assembler logic for translating instructions into binary.
+- `assembler.c`: Core assembler logic for translating instructions into binary.
 - `For brancing and comments.c` : Handles label removal, offset calculation, and comment cleaning.
 - `frontnew.exe` : Executable version for easy execution (if applicable).
 - `input.asm` : Sample input assembly file.
